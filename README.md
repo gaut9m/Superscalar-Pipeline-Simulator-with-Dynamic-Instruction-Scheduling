@@ -1,0 +1,2 @@
+# Superscalar-Pipeline-Simulator-with-Dynamic-Instruction-Scheduling
+Developed a superscalar CPU pipeline simulator modeling rename, dispatch, issue, execute, and writeback stages for microarchitecture analysis. Implemented Reorder Buffer (ROB), register renaming, and dynamic scheduling for precise execution and state recovery. Simulated pipeline throughput and cycle-by-cycle performance tracking.
